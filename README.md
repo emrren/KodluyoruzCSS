@@ -1,2 +1,2 @@
 # KodluyoruzCSS
-Kodluyoruz CSS eğitimi ödevleri
+Patikada CSS eğitimi ödevleri
